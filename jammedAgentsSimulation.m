@@ -86,9 +86,9 @@ static_jam_time = 0; % (s) initial seconds with static jammer
 
 % Path loss model 
 % pathloss_type = 'free_space';
-pathloss_type = 'path_loss_exp'; gamma = 2;
+% pathloss_type = 'path_loss_exp'; gamma = 2;
 % pathloss_type = 'rain';
-% pathloss_type = 'ray_tracing';
+pathloss_type = 'ray_tracing';
 
 % Rx settings
 Gt = 0; % tx gain (dB)
