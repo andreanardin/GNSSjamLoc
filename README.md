@@ -37,7 +37,16 @@ Northeastern University
 If you use this software, please cite the relative paper as:
 A. Nardin, T. Imbiriba, P. Closas, "Jamming Source Localization Using Augmented Physics-Based Model",
 ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 
-Rhodes, Greece, 2023, pp. -, doi: -.
+Rhodes, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10095731.
+
+Related works:
+ [![Cite this using DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2212.0809.svg)](https://doi.org/10.48550/arXiv.2212.08097) 
+ [![Cite this using DOI](https://zenodo.org/badge/DOI/10.1109/ICASSP49357.2023.10095731.svg)](https://doi.org/10.1109/ICASSP49357.2023.10095731) 
+ [![Cite this using DOI](https://zenodo.org/badge/DOI/10.1109/PLANS53410.2023.101400239.svg)](https://doi.org/10.1109/PLANS53410.2023.10140023) 
+
+Cite this software: 
+ [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15280784.svg)](https://doi.org/10.5281/zenodo.15280784) 
+
 
 
 # GNSSjamLoc
